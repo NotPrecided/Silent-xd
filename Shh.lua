@@ -38,7 +38,7 @@ getgenv().Aiming = {
     Enabled = true,
 
     ShowFOV = false,
-    FOV = 23, 
+    FOV = 18, 
     FOVSides = 12,
     FOVColour = Color3fromRGB(231, 84, 128),
 
